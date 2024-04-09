@@ -9,6 +9,6 @@ tutorial: # Link to the tutorial if you used one
 
 <!-- Its a keyboard PCb that takes in keypresses and sents it to the computer -->
 
-<!-- £115 with shipping but £98.11 without -->
+<!-- £115 with shipping but £98.10 without -->
 
 <!-- Tell us a little bit about your design process. What were some challenges? What helped? ***Totally optional*** -->
